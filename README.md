@@ -1,6 +1,4 @@
 # forseeTrade
 
 
-
-
-Hello
+Hello this a coding project
