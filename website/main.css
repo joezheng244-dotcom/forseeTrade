@@ -2,5 +2,18 @@
 
 h1 {
     text-align: center;
-    color:blueviolet;
+    color:black;
+    font-family: "Exo 2", sans-serif;
+}
+
+.font {
+    font-family: "Exo 2", sans-serif;
+}
+
+#title1{
+    margin-top: 2%;
+}
+
+#single{
+    padding-top:3%
 }
